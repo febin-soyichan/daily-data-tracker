@@ -1,1 +1,1 @@
-# Daily Data Tracker
+# 📊 Daily Data Tracker
